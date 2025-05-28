@@ -60,7 +60,7 @@ This project employs the following libraries:
 
 ## Key Features
 1. **Data Preparation**:
-   - Preprocessing images: resizing, normalization, and augmentation.
+   - Preprocessing images: resizing, normalization and augmentation.
    - Loading annotated datasets for training and evaluation.
 
 2. **Model Training**:
