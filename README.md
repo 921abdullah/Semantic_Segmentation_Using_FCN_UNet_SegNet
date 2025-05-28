@@ -64,7 +64,7 @@ This project employs the following libraries:
    - Loading annotated datasets for training and evaluation.
 
 2. **Model Training**:
-   - Implementation of FCN, U-Net, and SegNet architectures.
+   - Implementation of FCN, U-Net and SegNet architectures.
    - Training models with efficient hyperparameters for semantic segmentation.
 
 3. **Performance Metrics**:
